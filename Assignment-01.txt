@@ -1,0 +1,26 @@
+2.1. what do you want to acquire in this course£¿
+Ans:I want to acquire the ability of real NLP engineers 
+to solve the problems of industry.after I finish the course,
+I hope I can find an NLP internship,and after graduation, 
+I hope I can turn to be a real NLP algorithm engineer.
+
+2.2. what problems do you want to solve£¿
+Ans:The programming ability of Python.My programming ability is 
+medium, and I will try to strengthen my training.
+
+2.3. what¡¯s the advantages you have to finish you goal?
+Ans:My programming ability is not bad,and I have the mathematical 
+basis of NLP, including the mathematical operation process behind HMM, 
+Bayesian network, LTSM, RNN and other models, and I ran through some 
+small demos of NLP.but what the most important is I love coding,
+when I am coding,I can easliy enter to the state of heart flow£¬
+and I love NLP,I believe I can Stick to study and master the skills of
+NLP algorithm engineer.
+
+2.4. what¡¯s the disadvantages you need to overcome to finish you goal?
+Ans:I don't come from a 211 or 985 university, 
+I don't come from a computer-related major.
+
+2.5. How will you plan to study in this course period?
+Ans:conscientiously,attending class and doing homework.what 's more,
+I want to study the supplementary materials recommended by the teacher.
